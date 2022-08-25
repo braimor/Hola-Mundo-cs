@@ -1,0 +1,15 @@
+/Users/brian/Desktop/prog2/Hola-Mundo-cs/bin/Debug/net6.0/Hola-Mundo-cs
+/Users/brian/Desktop/prog2/Hola-Mundo-cs/bin/Debug/net6.0/Hola-Mundo-cs.deps.json
+/Users/brian/Desktop/prog2/Hola-Mundo-cs/bin/Debug/net6.0/Hola-Mundo-cs.runtimeconfig.json
+/Users/brian/Desktop/prog2/Hola-Mundo-cs/bin/Debug/net6.0/Hola-Mundo-cs.dll
+/Users/brian/Desktop/prog2/Hola-Mundo-cs/bin/Debug/net6.0/ref/Hola-Mundo-cs.dll
+/Users/brian/Desktop/prog2/Hola-Mundo-cs/bin/Debug/net6.0/Hola-Mundo-cs.pdb
+/Users/brian/Desktop/prog2/Hola-Mundo-cs/obj/Debug/net6.0/Hola-Mundo-cs.csproj.AssemblyReference.cache
+/Users/brian/Desktop/prog2/Hola-Mundo-cs/obj/Debug/net6.0/Hola-Mundo-cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian/Desktop/prog2/Hola-Mundo-cs/obj/Debug/net6.0/Hola-Mundo-cs.AssemblyInfoInputs.cache
+/Users/brian/Desktop/prog2/Hola-Mundo-cs/obj/Debug/net6.0/Hola-Mundo-cs.AssemblyInfo.cs
+/Users/brian/Desktop/prog2/Hola-Mundo-cs/obj/Debug/net6.0/Hola-Mundo-cs.csproj.CoreCompileInputs.cache
+/Users/brian/Desktop/prog2/Hola-Mundo-cs/obj/Debug/net6.0/Hola-Mundo-cs.dll
+/Users/brian/Desktop/prog2/Hola-Mundo-cs/obj/Debug/net6.0/ref/Hola-Mundo-cs.dll
+/Users/brian/Desktop/prog2/Hola-Mundo-cs/obj/Debug/net6.0/Hola-Mundo-cs.pdb
+/Users/brian/Desktop/prog2/Hola-Mundo-cs/obj/Debug/net6.0/Hola-Mundo-cs.genruntimeconfig.cache
